@@ -1,0 +1,29 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+.navbar-nav a:hover{
+	border: white 1px solid;
+	
+
+}
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+	margin: 5px 15px;
+	padding: 5px 5px;
+	text-decoration: none;
+}
+
+
+
+footer p a:hover{
+	text-decoration: none;
+	background-color: teal;
+	color: white;
+	border:solid 1px rgb(173, 173, 185);
+}
